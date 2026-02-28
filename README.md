@@ -19,11 +19,11 @@ Installation
 ------------
 Install with composer:
 ```
-composer require pa3py6aka/yii2-modal-alert-widget
+composer require all-sav/yii2-modal-alert-widget
 ```
 or add
 ```
-"pa3py6aka/yii2-modal-alert-widget": "^1.4"
+"all-sav/yii2-modal-alert-widget": "^1.4"
 ```
 to the require section of your composer.json file.
 
